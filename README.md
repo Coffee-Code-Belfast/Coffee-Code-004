@@ -1,4 +1,4 @@
- # Coffee&amp;Code#004: React (authors Caroline Chan & Ciara Magee)
+ # Coffee&amp;Code#004: React challenge (compiled by Caroline Chan & Ciara Magee)
  
 ## What is React?
 
@@ -9,9 +9,9 @@ React is a tool for building UI components
 
 For reference / further reading: A beginner’s guide and tutorial if you are completely new to React: https://ihatetomatoes.net/react-tutorial-for-beginners/
 
-Set up for today’s challenge:
+## Set up for today’s challenge:
 
-## CodeSandBox:
+CodeSandBox:
 
 We are going to be using codesandbox.io: an online editor that can be used to create and deploy web applications. 
 You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one here: Create a GitHub account
@@ -19,7 +19,7 @@ When you are logged in, to create a new Sandbox, go to the ‘+’ icon top righ
 
 Challenge:
 
-Level 1:
+## Level 1:
 
 Today we’ll try building a simple calculator using React using the following guide (please note there is no need to run create-react-app as we have already done that in CodeSandBox, which scaffolds a basic React app for us):
 https://medium.com/@nitinpatel_20236/how-to-build-a-simple-calculator-application-with-react-js-bc10a4568bbd
@@ -27,11 +27,11 @@ https://medium.com/@nitinpatel_20236/how-to-build-a-simple-calculator-applicatio
 **If you would prefer not to participate in the challenge, you can chill with a coffee and read through the resource list at the end of this doc! There are some React exrecises you can try out here: https://learn.freecodecamp.org/front-end-libraries/react For some React inspiration you can also check out these React app examples in CodeSandBox here: https://codesandbox.io/explore**
 
 
-Level 2:
+## Level 2:
 
 Try building a Weather Map app - making a request to a weather API then displaying the right info for a city and country. See https://medium.com/@peterekeneeze/build-a-react-js-weather-app-with-stateless-functional-components-e61567004b54 for a Weather Map app tutorial. As we’re using CodeSandBox, you can ignore ‘Setting up React’ and start from the ‘App Component’ section.
 
-What is an API? 
+## What is an API? 
 
 https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f
 https://searchmicroservices.techtarget.com/definition/RESTful-API
@@ -39,7 +39,7 @@ https://searchmicroservices.techtarget.com/definition/RESTful-API
 What other APIs could you use to make something? https://apilist.fun/ 
 
 
-Resources:
+## Resources:
 
 https://learn.freecodecamp.org/front-end-libraries/react
 
