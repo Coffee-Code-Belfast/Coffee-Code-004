@@ -1,5 +1,5 @@
  # Coffee&amp;Code#004: React challenge
- ### Compiled by Caroline Chan & Ciara Magee
+ ### Created by Caroline Chan & Ciara Magee
  
 ## What is React?
 
