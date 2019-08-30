@@ -1,5 +1,6 @@
  # Coffee&amp;Code#004: React challenge
  ### Created by Caroline Chan & Ciara Magee
+ ### Guest mentors Paul McBride and David cutting
  
 ## What is React?
 
