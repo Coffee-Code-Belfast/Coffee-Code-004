@@ -12,13 +12,13 @@ For reference / further reading: A beginner’s guide and tutorial if you are co
 
 ## Set up for today’s challenge:
 
-CodeSandBox:
+### CodeSandBox:
 
 We are going to be using codesandbox.io: an online editor that can be used to create and deploy web applications. 
 You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one here: Create a GitHub account
 When you are logged in, to create a new Sandbox, go to the ‘+’ icon top right menu and select ‘React’.
 
-Challenge:
+### Challenge:
 
 ## Level 1:
 
